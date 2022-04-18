@@ -1,3 +1,5 @@
+![logo](https://github.com/Delvat1n/Delvat1n/blob/main/assets/logo.jpg)
+
 ## **About me**
 I'm studying programming for a few month. I've worked in Unity creating a simple games. Now I'm coding on Python and increasing my skills each day.
 

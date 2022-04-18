@@ -1,8 +1,5 @@
 ![logo](assets/logo.png)
 
-## **About me**
-I'm studying programming for a few month. I've worked in Unity creating a simple games. Now I'm coding on Python and increasing my skills each day.
-
 ## **Languages and tools**
 ![python](https://img.shields.io/badge/Python-3B6E97?style=flat&logo=python&logoColor=FFFFFF)
 ![sqlite](https://img.shields.io/badge/SQLite-1580C9?style=flat&logo=sqlite&logoColor=FFFFFF)

@@ -1,4 +1,4 @@
-![logo](https://github.com/andrewchokh/andrewchokh/assets/logo.jpg)
+![logo](assets/logo.png)
 
 ## **About me**
 I'm studying programming for a few month. I've worked in Unity creating a simple games. Now I'm coding on Python and increasing my skills each day.

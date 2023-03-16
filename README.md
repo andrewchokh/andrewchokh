@@ -3,7 +3,7 @@
 
 <br>
 
-<p><img align="right" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif" alt="gif" width="300" border="solid" /></p>
+<p><img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="gif" width="400" border="solid" /></p>
 
 <h3 align="left"><b>About me</b></h3>
 <p align="left">

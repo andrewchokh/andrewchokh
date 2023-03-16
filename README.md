@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)~
+[![MasterHead](https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 <h3 align="center">A programmer with a disire to improvement.</h3>

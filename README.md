@@ -3,7 +3,7 @@
 
 <br>
 
-<p><img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="gif" width="400" border="solid" /></p>
+<p><img align="right" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif" alt="gif" width="400"/></p>
 
 <h3 align="left"><b>About me</b></h3>
 <p align="left">
@@ -18,8 +18,8 @@
 
 <h3 align="left"><b>Connect with me:</b></h3>
 <p align="left">
-<a href="andrew.chokh@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="SOME" height="30" width="40" /></a>
-<a href="https://t.me/andrewchokh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="SOME" height="30" width="40" /></a>
+<a href="andrew.chokh@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="gmail" height="30" width="40" /></a>
+<a href="https://t.me/andrewchokh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram" height="30" width="40" /></a>
 </p>
 
 <br>

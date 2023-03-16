@@ -1,4 +1,4 @@
-![logo](assets/logo.png)
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw05U77Hgj4q8yRU6TYztEWY&ust=1679076560443000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIC53aP44P0CFQAAAAAdAAAAABBl)
 
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 <h3 align="center">A programmer with a disire to improvement.</h3>

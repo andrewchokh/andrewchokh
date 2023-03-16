@@ -1,4 +1,4 @@
-<p><img align="right" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif" alt="gif" width="400"/></p>
+<p><img align="center" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif" alt="gif"/></p>
 <h1 align="center">Greetings 👋, I'm Andrew</h1>
 <h3 align="center">A student from Ukraine, who is slowly, but confidently, takes steps to his dream.</h3>
 

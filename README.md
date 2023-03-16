@@ -48,7 +48,3 @@
 <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" width="40" height="40"/>
 </p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewchokh&show_icons=true&locale=en" alt="andrewchokh" /></p>
-

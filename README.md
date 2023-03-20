@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Coding Skills**
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **WinForms**
 
 - 👯 I’m looking to collaborate on **Unity Projects**
 

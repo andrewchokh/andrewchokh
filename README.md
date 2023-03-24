@@ -18,7 +18,6 @@
 
 <h3 align="left"><b>Connect with me:</b></h3>
 <p align="left">
-<a href="andrew.chokh@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="gmail" height="30" width="40" /></a>
 <a href="https://t.me/andrewchokh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram" height="30" width="40" /></a>
 </p>
 

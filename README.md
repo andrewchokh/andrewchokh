@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Coding Skills**
 
-- 🌱 I’m currently learning **-**
+- 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on **Any project**
 

@@ -1,4 +1,4 @@
-# 👋 Greetings! I'm Andrew!
+# 👋 Greetings, I'm Andrew!
 
 👩🏻‍💻 **Software Engineer who gradually achieving his goals**<br>
 👩🏻‍🎓 **Student of college in Ukraine**<br>

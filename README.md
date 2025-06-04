@@ -1,6 +1,5 @@
 # 👋 Greetings! I'm Andrew!
 
-# 💫 About Me:
 👩🏻‍💻 **Software Engineer who gradually achieving his goals**<br>
 👩🏻‍🎓 **Student of college in Ukraine**<br>
 😌 **Prefers to work in calm environment all alone**

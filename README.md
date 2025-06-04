@@ -4,7 +4,8 @@
 👩🏻‍🎓 **Student of college in Ukraine**<br>
 😌 **Prefers to work in calm environment all alone**
 
-![](https://github-readme-stats.vercel.app/api?username=andrewchokh&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=andrewchokh&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true)
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="gif" width="255"/><br/>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/XguKubAZxg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrew.chokh@gmail.com) 

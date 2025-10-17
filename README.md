@@ -1,7 +1,7 @@
 # 👋 Greetings, I'm Andrew!
 
 👩🏻‍💻 **Software Engineer who gradually achieving his goals**<br>
-👩🏻‍🎓 **Student of college in Ukraine**<br>
+👩🏻‍🎓 **Student of University in Ukraine**<br>
 😌 **Prefers to work in calm environment all alone**
 
 ![](https://github-readme-stats.vercel.app/api?username=andrewchokh&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true)
